@@ -1,0 +1,2 @@
+Ambiente de desenvolvimento Python no Ubuntu - Com VS Code, Google Chrome, ZSH, Oh-my-zsh, zsh-syntax-highlighting, zsh-autosuggestions e spaceship prompt.
+https://gist.github.com/luizomf/1fe6c67f307fc1df19e58f224134dc8f

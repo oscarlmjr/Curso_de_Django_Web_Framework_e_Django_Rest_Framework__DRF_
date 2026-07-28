@@ -1,0 +1,2 @@
+Configuração do VS Code para Python e Django.
+https://gist.github.com/luizomf/276820fed43130edaf4fa8ab3c57a0a1
