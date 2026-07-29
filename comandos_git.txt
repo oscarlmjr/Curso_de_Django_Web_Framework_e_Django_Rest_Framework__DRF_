@@ -45,25 +45,75 @@ git ls-files | xargs -n 1 dirname | sort -u
 
 ##########################################
 
-**clone
+**************criar submodule local
+git submodule add ./caminho-do-submodule pasta-destino
+git submodule set-url <caminho-do-submodulo> <nova-url-github>
+git submodule sync
+git add .gitmodules
+git commit -m "Atualiza URL do submódulo"
+
+
+
+
+
+
+
+
+
+
+**************clone
+git clone --recurse-submodules https://github.com
+**************criar submodule local
+git submodule add  ./projeto1
+git submodule init
+git submodule update --remote
+
+git config --file=.gitmodules submodule../projeto1.url https://github.com
+git submodule sync --recursive
+git add ./projeto1 .gitmodules
+git commit -m "Atualiza URL remota do submódulo"
+
+git submodule add https://github.com
+git add .
+git commit -m "Adiciona submódulo"
+git push origin main
+
+
+**************criar submodule local
+git submodule add  ./projeto1
+git submodule init
+git submodule update
+**************clone
 git submodule add  https://github.com
 git submodule status
 git submodule update --init --recursive
 
-**renomear
+
+**************renomear
 git mv caminho/para/nome-antigo caminho/para/nome-novo
-**atualizar configurações internas do git
+**************atualizar configurações internas do git
 git config -f .gitmodules submodule.nome-antigo.path caminho/para/nome-novo
 git config -f .gitmodules --rename-section submodule.nome-antigo submodule.nome-novo
 git config --rename-section submodule.nome-antigo submodule.nome-novo
 git  submodule sync
-
 git config --file=.gitmodules submodule.<caminho-do-submodulo>.url <nova-url-remota>
 git submodule sync
 git submodule update --init --recursive --remote
 git add .gitmodules
-git add Section_12__Django_com_Python___Projeto_Blog_
 git commit -m "Renomeia o submódulo de nome-antigo para nome-novo"
+
+
+**************adiciona o nome do submodulo e do path iguais: nome da pasta local
+**************adiciona o nome da url: repositorio remoto 
+git submodule add  Section_8_aula403
+git submodule status
+git submodule sync --recursive
+git submodule update --init --recursive --remote
+
+git add .gitmodules
+git commit -m "Atualiza a URL do submódulo"
+git push origin main
+
 
 cd submodulo/
 git add .
@@ -75,27 +125,8 @@ git commit -m "Atualiza o submódulo para o commit mais recente"
 git push origin main
 
 
-**criar submodule local
-git submodule add  ./Section_8_aula403
-git submodule status
-git submodule update --init --recursive
-git submodule init
-git submodule update
 
-**adiciona o nome do submodulo e do path iguais: nome da pasta local
-**adiciona o nome da url: repositorio remoto 
-git submodule add  Section_8_aula403
-git submodule status
-git submodule sync --recursive
-git submodule update --init --recursive --remote
-
-git add .gitmodules
-git commit -m "Adicionando submódulo e sua URL"
-git commit -m "Atualiza a URL do submódulo"
-git push origin main
-
-
-**paths
+**************paths
 git submodule foreach -q git config remote.origin.url
 git config --file .gitmodules --get submodule.Section_8_aula403.url
 git submodule
@@ -107,30 +138,14 @@ git config --file .gitmodules --get-regexp '\.url$'
 
 
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-git submodule deinit ./Section_8_aula403
-********** teste para não apagar arquivos ********* git submodule deinit -f ./Section_8_aula403
-git rm --cached ./Section_8_aula403
-********** teste para não apagar arquivos ********* git rm -f ./Section_8_aula403
-rm -rf .git/modules/./Section_8_aula403
-git config -f .gitmodules --remove-section submodule.Section_8_aula403
+git submodule deinit -f ./projeto1
+git rm --cached ./projeto1
+git rm -r --cached ./projeto1
+git rm -f ./projeto1
+rm -rf .git/modules/./projeto1
+git config -f .gitmodules --remove-section submodule.projeto1
 
 git add .gitmodules
 git commit -m "Removendo submódulo e sua URL"
 git push origin main
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-git clone --recurse-submodules https://github.com
-git submodule init
-git submodule update
-git submodule update --remote
-
-git config --file=.gitmodules submodule.<caminho-do-submodulo>.url <nova-url-remota>
-git submodule sync --recursive
-git add <caminho-do-submodulo> .gitmodules
-git commit -m "Atualiza URL remota do submódulo"
-
-git submodule add https://github.com
-git add .
-git commit -m "Adiciona submódulo"
-git push origin main
