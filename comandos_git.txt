@@ -46,9 +46,16 @@ git ls-files | xargs -n 1 dirname | sort -u
 ##########################################
 
 **************criar submodule local
-git submodule add ./caminho-do-submodule pasta-destino
-git submodule set-url <caminho-do-submodulo> <nova-url-github>
-git submodule sync
+cd ./projeto1
+git init
+cd ..
+git submodule add ./projeto1
+git submodule status
+git submodule set-url projeto1 git@github.com:oscarlmjr/curso-django-projeto1.git
+git submodule sync --recursive
+*****se necessário >> cd ./projeto1
+git remote add origin git@github.com:oscarlmjr/curso-django-projeto1.git
+git remote set-url origin git@github.com:oscarlmjr/curso-django-projeto1.git
 git add .gitmodules
 git commit -m "Atualiza URL do submódulo"
 
@@ -64,7 +71,7 @@ git commit -m "Atualiza URL do submódulo"
 **************clone
 git clone --recurse-submodules https://github.com
 **************criar submodule local
-git submodule add  ./projeto1
+git submodule add ./projeto1
 git submodule init
 git submodule update --remote
 

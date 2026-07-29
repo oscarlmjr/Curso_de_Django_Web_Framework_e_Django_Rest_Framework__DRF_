@@ -1,0 +1,3 @@
+[submodule "projeto1"]
+	path = projeto1
+	url = git@github.com:oscarlmjr/curso-django-projeto1.git
