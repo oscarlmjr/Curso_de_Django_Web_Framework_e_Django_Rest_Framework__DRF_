@@ -139,7 +139,6 @@ git config --file .gitmodules --get-regexp '\.url$'
 
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 git submodule deinit -f ./projeto1
-git rm --cached ./projeto1
 git rm -r --cached ./projeto1
 git rm -f ./projeto1
 rm -rf .git/modules/./projeto1
