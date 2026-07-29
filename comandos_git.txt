@@ -137,14 +137,16 @@ git config --file .gitmodules --get-regexp path
 git config --file .gitmodules --get-regexp '\.url$'
 
 
-#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 git submodule deinit -f ./projeto1
 git rm -r --cached ./projeto1
 git rm -f ./projeto1
 rm -rf .git/modules/./projeto1
 git config -f .gitmodules --remove-section submodule.projeto1
-
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!git rm .gitmodules!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 git add .gitmodules
 git commit -m "Removendo submódulo e sua URL"
 git push origin main
-#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
