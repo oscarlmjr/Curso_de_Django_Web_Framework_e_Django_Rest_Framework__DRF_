@@ -45,6 +45,26 @@ git ls-files | xargs -n 1 dirname | sort -u
 
 ##########################################
 
+git rebase -i HEAD~2
+>> i (para editar)
+>> (apagar pick e digitar drop no commit que será deletado)
+>> Esc + :
+>> wq
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!git rebase --abort!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+####git rebase --skip (?)
+git rebase --continue (avança em um processo de reorganização de vários commits após você resolver um problema)
+git push --force origin main
+####git push origin main --force-with-lease (não altera o repositório remoto)
+
+####git commit --amend (antes do git rebase --continue (?), altera e substitui o seu último commit)
+>> "Atualiza commit"
+>> Esc + :
+>> wq
+
+##########################################
+
 **************criar submodule local
 cd ./projeto1
 git init

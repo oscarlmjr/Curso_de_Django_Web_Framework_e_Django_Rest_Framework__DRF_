@@ -1,0 +1,2 @@
+hello django
+https://github.com/luizomf/curso-django-projeto1/commit/48f74988629d798b77bd903689f45a796155be48
