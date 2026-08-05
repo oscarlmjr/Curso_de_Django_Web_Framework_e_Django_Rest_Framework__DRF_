@@ -1,0 +1,12 @@
+Versions of Font Awesome
+https://fontawesome.com/versions
+
+font-awesome
+The iconic SVG, font, and CSS toolkit
+https://cdnjs.com/libraries/font-awesome/5.15.4
+
+Removido contato e sobre
+https://github.com/luizomf/curso-django-projeto1/commit/2850074e3ac5cd338b4d81a417cac079f20826cd
+
+Adicionado font-awesome
+https://github.com/luizomf/curso-django-projeto1/commit/400dd6e1fee6e07f4741fe70bd7235509488a99b
