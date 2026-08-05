@@ -1,0 +1,2 @@
+Movendo código para o app recipes
+https://github.com/luizomf/curso-django-projeto1/commit/bfdfbec822e3057409465a95ffd2923631635581

@@ -1,0 +1,5 @@
+Exemplo de template temp
+https://github.com/luizomf/curso-django-projeto1/commit/6ba2867e7a51f33f6df4e381ffb71674c2991ae9
+
+Removido temp templates
+https://github.com/luizomf/curso-django-projeto1/commit/1c78a53c5aa04cda73e45c07adce10002da3f740
