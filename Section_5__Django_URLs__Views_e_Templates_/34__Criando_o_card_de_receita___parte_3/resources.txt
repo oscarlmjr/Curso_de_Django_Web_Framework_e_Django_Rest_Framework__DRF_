@@ -1,0 +1,2 @@
+Card de receita pronto para desktop
+https://github.com/luizomf/curso-django-projeto1/commit/a24707a8e7d772ea3ef86d453fa2103a6e978ac6

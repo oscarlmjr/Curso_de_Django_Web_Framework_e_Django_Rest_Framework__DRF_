@@ -1,0 +1,6 @@
+Rede de fornecimento de conteúdo
+https://pt.wikipedia.org/wiki/Rede_de_fornecimento_de_conte%C3%BAdo
+
+font-awesome
+The iconic SVG, font, and CSS toolkit
+https://cdnjs.com/libraries/font-awesome/5.15.4

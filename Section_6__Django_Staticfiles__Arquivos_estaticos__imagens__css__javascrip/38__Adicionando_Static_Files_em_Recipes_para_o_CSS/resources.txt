@@ -1,0 +1,5 @@
+Adicionado arquivos estáticos em recipes
+https://github.com/luizomf/curso-django-projeto1/commit/82a5027c4d44df8befbcf5305bb968474c959ad5
+
+Gerenciamento de arquivos estáticos (ex.: imagens, JavaScript, CSS)
+https://docs.djangoproject.com/pt-br/3.2/howto/static-files/

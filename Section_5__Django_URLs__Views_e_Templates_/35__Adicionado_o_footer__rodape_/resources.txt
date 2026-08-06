@@ -1,0 +1,2 @@
+Adicionada o footer (rodapé)
+https://github.com/luizomf/curso-django-projeto1/commit/37f8b1d452227d3c7bcb482437ce71f717dd1769

@@ -1,0 +1,2 @@
+STATIC_URL e STATICFILES_DIRS no Django
+https://github.com/luizomf/curso-django-projeto1/commit/8ce654ed4cd64f2149326992cef090df345b2932
