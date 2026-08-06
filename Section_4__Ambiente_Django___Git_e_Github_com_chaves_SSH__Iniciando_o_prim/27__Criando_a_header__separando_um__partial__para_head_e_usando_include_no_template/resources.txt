@@ -1,0 +1,2 @@
+Iniciando a header e separando o partial head
+https://github.com/luizomf/curso-django-projeto1/commit/09f7c4b5eb3447f5d3ef4b713eea848d94ec54f0

@@ -1,5 +1,7 @@
 Versions of Font Awesome
 https://fontawesome.com/versions
+Classic Brands
+https://fontawesome.com/icons/packs/brands
 
 font-awesome
 The iconic SVG, font, and CSS toolkit

@@ -1,0 +1,2 @@
+Criando a grid de conteúdo
+https://github.com/luizomf/curso-django-projeto1/commit/c5fb22d01cb37d9d6d2ca0a14e8feae5614b0e7f

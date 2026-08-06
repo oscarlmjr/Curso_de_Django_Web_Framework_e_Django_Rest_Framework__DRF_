@@ -1,0 +1,11 @@
+Ajustando o estilo CSS da Header
+https://github.com/luizomf/curso-django-projeto1/commit/4f711c5e8a62d2da5b76f602ce8467b2c02eca0b
+
+Google Fonts
+https://fonts.google.com/
+
+Roboto Slab
+https://fonts.google.com/specimen/Roboto+Slab
+
+Embed code
+https://fonts.google.com/selection/embed

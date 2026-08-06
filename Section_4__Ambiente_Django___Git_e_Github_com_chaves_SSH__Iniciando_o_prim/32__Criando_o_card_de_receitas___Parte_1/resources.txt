@@ -1,0 +1,8 @@
+Criando o card de receita - parte 1
+https://github.com/luizomf/curso-django-projeto1/commit/43446deec8c764ee7954c41ac5c0012c559dc9fd
+
+placehold.jp
+https://placehold.jp/en.html
+1280x720
+269fe6
+https://placehold.jp/269fe6/ffffff/1280x720.png

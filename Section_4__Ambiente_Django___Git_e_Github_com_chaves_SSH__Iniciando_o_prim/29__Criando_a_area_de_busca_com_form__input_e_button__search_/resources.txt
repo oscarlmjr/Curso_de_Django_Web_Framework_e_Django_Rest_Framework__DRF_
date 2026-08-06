@@ -1,0 +1,2 @@
+Criando a área de busca (search)
+https://github.com/luizomf/curso-django-projeto1/commit/725404ed5d297da37d98ee9e5ca02e5e4e658b0d
