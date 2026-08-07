@@ -1,0 +1,11 @@
+Injetando dados na lista da view Home
+https://github.com/luizomf/curso-django-projeto1/commit/288bafc899a1ce9dcecf66a605be6e1b537b250f
+
+Veja todas as tags no site do Django
+https://docs.djangoproject.com/pt-br/3.2/topics/templates/
+
+Referência da linguagem do Django Template
+https://docs.djangoproject.com/pt-br/3.2/ref/templates/language/
+
+Built-in template tags and filters
+https://docs.djangoproject.com/pt-br/3.2/ref/templates/builtins/#ref-templates-builtins-tags

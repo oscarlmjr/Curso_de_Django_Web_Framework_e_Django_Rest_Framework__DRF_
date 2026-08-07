@@ -1,0 +1,3 @@
+Corrigindo a altura dos cards de recipes e adicionando a imagem
+https://github.com/luizomf/curso-django-projeto1/commit/1b26025422b53876fb1d6089fd87ff243addbaa4
+

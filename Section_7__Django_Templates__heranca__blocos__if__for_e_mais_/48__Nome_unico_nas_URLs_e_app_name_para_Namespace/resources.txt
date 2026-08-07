@@ -1,0 +1,2 @@
+Nome único nas URLs e app_name para Namespace
+https://github.com/luizomf/curso-django-projeto1/commit/08fab2a343c7865757a45e2a726a4848617cd9dd

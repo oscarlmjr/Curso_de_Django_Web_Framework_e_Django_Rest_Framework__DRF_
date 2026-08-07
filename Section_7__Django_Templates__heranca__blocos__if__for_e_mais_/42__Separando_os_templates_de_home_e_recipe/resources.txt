@@ -1,0 +1,2 @@
+Adicionado recipe-view template
+https://github.com/luizomf/curso-django-projeto1/commit/99c7ba6e4dc5de8e16b5a1476dafdfc6be95fe98

@@ -1,0 +1,2 @@
+STATIC_ROOT
+https://github.com/luizomf/curso-django-projeto1/commit/7668ac61742bb985d9c99afc30cb9a8a78f9deae

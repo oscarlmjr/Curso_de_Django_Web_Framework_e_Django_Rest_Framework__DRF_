@@ -1,0 +1,2 @@
+Criando o block para o título da página
+https://github.com/luizomf/curso-django-projeto1/commit/ffe32e5ac42484f8d12997aeef2f9cfad56bd1fd

@@ -1,0 +1,2 @@
+Trabalhando nas diferenças entre detail page e list page
+https://github.com/luizomf/curso-django-projeto1/commit/3ca96deffb6242c8a7e74bebee6a40b5637af52b

@@ -1,0 +1,5 @@
+Uma nova URL para uma nova View
+https://github.com/luizomf/curso-django-projeto1/commit/8b00f015e0f8e95a0e1c439ee44bdae43b85a761
+
+Despachante de URL
+https://docs.djangoproject.com/pt-br/3.2/topics/http/urls/
