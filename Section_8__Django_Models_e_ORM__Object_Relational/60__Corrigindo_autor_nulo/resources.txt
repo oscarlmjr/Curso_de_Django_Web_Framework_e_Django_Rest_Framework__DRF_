@@ -1,0 +1,2 @@
+Corrigindo autor nulo
+https://github.com/luizomf/curso-django-projeto1/commit/f7c6425949b3d37194915216b62b636e19715efc

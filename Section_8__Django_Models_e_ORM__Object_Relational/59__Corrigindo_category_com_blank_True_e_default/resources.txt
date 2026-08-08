@@ -1,0 +1,2 @@
+Corrigindo category com blank True e default None
+https://github.com/luizomf/curso-django-projeto1/commit/6ef0a8b9446d3969247646efc960c3fb0f630112

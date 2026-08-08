@@ -1,0 +1,2 @@
+Filtrando is_published
+https://github.com/luizomf/curso-django-projeto1/commit/f5e1879c85eac16c995aa0d5135528c3b1b8dc36

@@ -1,0 +1,2 @@
+Usando o model Recipe real na view home
+https://github.com/luizomf/curso-django-projeto1/commit/b301700b3d5ba6f1b33583b30ecff9610b42bcfc
