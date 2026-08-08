@@ -1,0 +1,2 @@
+Iniciando a criação do primeiro model
+https://github.com/luizomf/curso-django-projeto1/commit/e31be4435bb67bc7a70b4c31dd1b024b707df22a

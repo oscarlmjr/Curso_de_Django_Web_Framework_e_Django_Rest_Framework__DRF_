@@ -1,0 +1,8 @@
+Adicionando Recipes na admin do Django
+https://github.com/luizomf/curso-django-projeto1/commit/b624410f8a59bcc4231f87f8d71ce844ab5fd6cd
+
+HTML-Ipsum
+https://www.webfx.com/web-design/html-ipsum/
+
+Lorem Ipsum
+https://www.lipsum.com/

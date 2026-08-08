@@ -1,0 +1,2 @@
+Registrando category na admin do Django
+https://github.com/luizomf/curso-django-projeto1/commit/4d35d9eb88a90edea17018abb6fa21a85bed7570

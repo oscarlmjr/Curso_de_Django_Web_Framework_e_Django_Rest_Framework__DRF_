@@ -1,0 +1,2 @@
+makemigrations e migrate - Aplicando as migrações
+https://github.com/luizomf/curso-django-projeto1/commit/0695666e84f6c2d9c8930bb31583bf5e50e0a4f2
