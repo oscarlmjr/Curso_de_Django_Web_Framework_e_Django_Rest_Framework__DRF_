@@ -1,0 +1,2 @@
+Exibindo erro 404 para páginas que não existem
+https://github.com/luizomf/curso-django-projeto1/commit/aa2c082c6fe2150a41b3deefada65b26f65fe4ac
