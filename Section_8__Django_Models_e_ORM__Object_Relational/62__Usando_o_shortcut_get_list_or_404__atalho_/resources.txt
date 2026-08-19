@@ -1,0 +1,2 @@
+Usando o shortcut get_list_or_404 (atalho)
+https://github.com/luizomf/curso-django-projeto1/commit/202a30a24e9da69fb7a9f59ff992767355d18664
