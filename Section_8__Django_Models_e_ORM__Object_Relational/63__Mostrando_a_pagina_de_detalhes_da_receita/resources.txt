@@ -1,0 +1,2 @@
+Mostrando a página de detalhes da receita
+https://github.com/luizomf/curso-django-projeto1/commit/fd0d8d24099b36bd991d176370b52ad569650a0e
