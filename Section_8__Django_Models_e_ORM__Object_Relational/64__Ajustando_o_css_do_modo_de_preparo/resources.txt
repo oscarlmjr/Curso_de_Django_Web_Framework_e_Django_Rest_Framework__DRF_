@@ -1,0 +1,6 @@
+Corrigindo o css
+https://github.com/luizomf/curso-django-projeto1/commit/e274b78202f7cd544b4b713e0b0bb286c2ddfc7b
+
+Coddy Tools
+https://coddy.tech/tools/pt/lorem-ipsum-generator
+
