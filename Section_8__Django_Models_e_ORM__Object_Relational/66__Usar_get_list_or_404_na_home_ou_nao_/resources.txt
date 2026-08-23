@@ -1,0 +1,2 @@
+Usar get_list_or_404 na home ou não?
+https://github.com/luizomf/curso-django-projeto1/commit/285713c5f4c0b93961d09aa705e3a2fd3d4b6361
