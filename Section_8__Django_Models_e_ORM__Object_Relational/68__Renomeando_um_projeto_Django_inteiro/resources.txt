@@ -1,0 +1,2 @@
+Renomeando um projeto Django inteiro
+https://github.com/luizomf/curso-django-projeto1/commit/b126d32201ca305edaac5c0b9154bf766cc9299a

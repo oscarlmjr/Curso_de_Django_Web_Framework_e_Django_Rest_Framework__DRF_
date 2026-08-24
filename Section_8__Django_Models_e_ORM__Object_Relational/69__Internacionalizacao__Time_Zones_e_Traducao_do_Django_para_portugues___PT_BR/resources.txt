@@ -1,0 +1,8 @@
+Internacionalização, Timezones e Tradução do Django para português - PT-BR
+https://github.com/luizomf/curso-django-projeto1/commit/b8ca687466df1c079e0b5a3e5c30bcf39e792733
+
+List of tz database time zones
+https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+Tempo Universal Coordenado
+https://pt.wikipedia.org/wiki/Tempo_Universal_Coordenado
