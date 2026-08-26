@@ -1,0 +1,2 @@
+Asserções (afirmações), Django Reverse URL e Pytest-Watch
+https://github.com/luizomf/curso-django-projeto1/commit/93e8c9c293887db9fd83648cfb3249d369449ff5

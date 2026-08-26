@@ -1,0 +1,8 @@
+Corrigindo erros do flake8 e mypy
+https://github.com/luizomf/curso-django-projeto1/commit/716cf26fa4d2ebcb090a45e3a4b75915a476bcc6
+
+Flake8: Your Tool For Style Guide Enforcement
+https://flake8.pycqa.org/en/latest/
+
+Configuring Django settings
+https://pytest-django.readthedocs.io/en/latest/configuring_django.html

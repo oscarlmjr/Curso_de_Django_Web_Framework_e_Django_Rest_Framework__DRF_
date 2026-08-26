@@ -1,0 +1,2 @@
+Iniciando com testes no Django com Pytest, Pytest-Django e Unittest
+https://github.com/luizomf/curso-django-projeto1/commit/ac104beddc1035f9132b5ae7afbfccdebd698431
