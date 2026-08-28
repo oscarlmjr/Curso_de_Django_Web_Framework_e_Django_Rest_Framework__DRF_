@@ -1,0 +1,2 @@
+Usando resolve para entender qual view function está sendo usada
+https://github.com/luizomf/curso-django-projeto1/commit/ede8ec80c3c6f895d25621e8d6d0cea4124c3796

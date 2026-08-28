@@ -1,0 +1,2 @@
+Separando os testes em um package chamado tests com __init__.py
+https://github.com/luizomf/curso-django-projeto1/commit/df28faf9b89c26a956a24a4a35774c9650cafa36
