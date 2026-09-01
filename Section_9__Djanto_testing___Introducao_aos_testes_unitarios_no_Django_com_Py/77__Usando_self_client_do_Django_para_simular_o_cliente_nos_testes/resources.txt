@@ -1,0 +1,2 @@
+Usando self.client do Django para simular o cliente nos testes
+https://github.com/luizomf/curso-django-projeto1/commit/c618475c22fd6fd523a8eff68b15a8922147777f
