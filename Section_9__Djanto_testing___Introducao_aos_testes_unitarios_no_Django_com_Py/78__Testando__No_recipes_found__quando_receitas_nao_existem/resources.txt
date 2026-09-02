@@ -1,0 +1,2 @@
+Testando "No recipes found" quando receitas não existem
+https://github.com/luizomf/curso-django-projeto1/commit/e359bfd04d5fcedcc41de45552ab05066299f3f5
