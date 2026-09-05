@@ -1,0 +1,2 @@
+Testando o context e content do template
+https://github.com/luizomf/curso-django-projeto1/commit/d3d82661d1fdd5cac4442195e8f3987da2492c46

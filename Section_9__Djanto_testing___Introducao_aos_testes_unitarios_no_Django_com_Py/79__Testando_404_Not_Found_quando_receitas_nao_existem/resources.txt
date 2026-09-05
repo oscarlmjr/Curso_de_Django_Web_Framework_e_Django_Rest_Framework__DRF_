@@ -1,0 +1,2 @@
+Testando 404 Not Found quando receitas não existem
+https://github.com/luizomf/curso-django-projeto1/commit/30759656db3d0bc730e0ebacca1dff323d174cac

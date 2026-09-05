@@ -1,0 +1,2 @@
+Primeira fixture para teste único
+https://github.com/luizomf/curso-django-projeto1/commit/1f98f679fc5fc634e99ea4918c2348918fcfdf7e
